@@ -1,6 +1,6 @@
 # Flashcard app created for Thinkful assignment
 
-## Skills used:
+## Technologies Used:
 
 - [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [React](https://reactjs.org/docs/introducing-jsx.html)
@@ -19,7 +19,7 @@
 
 - Fork and Clone this repository
 - NPM Install if needed
-- Run `npm start` Microsoft Users might need to run `npm run start:server` and `npm run start:react` separately
+- Run `npm start` PC Users might need to run `npm run start:server` and `npm run start:react` separately
 
 ## To Dos:
 
