@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 
-//TODO create the NotEnoughCards JSX. has button to add cards to deck.
+// create the NotEnoughCards JSX. has button to add cards to deck.
 
 export function NotEnoughCards({ deck }) {
   //tells the user there are not enough cards and prompts them to add more.
